@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Картинки/белочка.jpg</file>
+        <file>Картинки/дакошка.jpg</file>
+        <file>Картинки/кенгуру.jpg</file>
+        <file>Картинки/кошка.jpg</file>
+        <file>Картинки/обезьяна.png</file>
+        <file>Картинки/попугай.jpg</file>
+        <file>Картинки/рыбка.jpg</file>
+        <file>Картинки/слон.jpg</file>
+        <file>Картинки/собачка.jpg</file>
+        <file>Картинки/ящерица.jpg</file>
+    </qresource>
+</RCC>
